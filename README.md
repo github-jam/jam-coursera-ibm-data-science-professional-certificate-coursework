@@ -11,9 +11,9 @@ Predicting success of Falcon 9 First Stage landing and re-use, from SpaceX data,
 
 # Report Results Notebook References
 
-[Data Collection](https://github.com/github-jam/jam-coursera-ibm-data-science-professional-certificate-coursework/blob/master/jupyter-labs-spacex-data-collection-api.ipynb)
+[Data Collection - SpaceX REST API](https://github.com/github-jam/jam-coursera-ibm-data-science-professional-certificate-coursework/blob/master/jupyter-labs-spacex-data-collection-api.ipynb)
 
-[Web Scraping](https://github.com/github-jam/jam-coursera-ibm-data-science-professional-certificate-coursework/blob/master/jupyter-labs-webscraping.ipynb)
+[Data Collection - Web Scraping - Wikipedia Falcon 9 Launch Data](https://github.com/github-jam/jam-coursera-ibm-data-science-professional-certificate-coursework/blob/master/jupyter-labs-webscraping.ipynb)
 
 [Data Wrangling](https://github.com/github-jam/jam-coursera-ibm-data-science-professional-certificate-coursework/blob/master/labs-jupyter-spacex-Data%20wrangling.ipynb)
 
